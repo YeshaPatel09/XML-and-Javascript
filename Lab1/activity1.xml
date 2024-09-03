@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ITS>
+    <Myself>
+        <Name>Yesha Patel</Name>
+        <intro>Degree: Bachelor in computer science engineering</intro>
+        <MyHobby>
+            <Hobby>Listening Music</Hobby>
+            <Hobby>Travelling</Hobby>
+            <Hobby>Reading</Hobby>
+            <Hobby>Coding</Hobby>
+        </MyHobby>
+    </Myself>
+    <Myself>
+        <Name>Nikita Sawant</Name>
+        <intro>Degree: Bachelor in electronics communication engineering</intro>
+        <MyHobby>
+            <Hobby>Coding</Hobby>
+            <Hobby>Travelling</Hobby>
+            <Hobby>Listening Music</Hobby>
+        </MyHobby>
+    </Myself>
+    <Myself>
+        <Name>Karan Parmar</Name>
+        <intro>Degree: Bachelor in computer engineering</intro>
+        <MyHobby>
+            <Hobby>Listening Music</Hobby>
+            <Hobby>Gaming</Hobby>
+        </MyHobby>
+    </Myself>
+    <Myself>
+        <Name>Yash Patel</Name>
+        <intro>Degree: Bachelor in computer application</intro>
+        <MyHobby>
+            <Hobby>Cooking</Hobby>
+            <Hobby>Travelling</Hobby>
+            <Hobby>Coding</Hobby>
+        </MyHobby>
+    </Myself>
+    <Myself>
+        <Name>Taranjeet Kaur</Name>
+        <intro>Degree: Bachelor in computer application</intro>
+        <MyHobby>
+            <Hobby>Photography</Hobby>
+            <Hobby>Painting</Hobby>
+            <Hobby>Reading</Hobby>
+        </MyHobby>
+    </Myself>
+    <Myself>
+        <Name>Harsh Patel</Name>
+        <intro>Degree: Bachelor in computer science engineering</intro>
+        <MyHobby>
+            <Hobby>Reading</Hobby>
+            <Hobby>Gaming</Hobby>
+            <Hobby>Cycling</Hobby>
+        </MyHobby>
+    </Myself>
+</ITS>
