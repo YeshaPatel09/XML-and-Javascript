@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<Activity>
+<Activity2>
     <Person>
         <Name>Rorie Demanche</Name>
          <Contact>
@@ -36,4 +36,4 @@
             <Email>csupple3@123-reg.co.uk</Email>
         </Contact>
     </Person>
-</Activity>
+</Activity2>
