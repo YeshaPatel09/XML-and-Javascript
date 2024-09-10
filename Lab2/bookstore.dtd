@@ -1,0 +1,10 @@
+<!ELEMENT bookstore (genre+) >
+<!ELEMENT genre (book+) >
+<!ATTLIST genre name CDATA #IMPLIED >
+<!ELEMENT book (chapter+) >
+<!ATTLIST book ISBN CDATA #IMPLIED >
+<!ATTLIST book Title CDATA #IMPLIED >
+<!ATTLIST book Price CDATA #IMPLIED >
+<!ELEMENT chapter (#PCDATA) >
+<!ATTLIST chapter num CDATA #IMPLIED >
+<!ATTLIST chapter name CDATA #IMPLIED >
